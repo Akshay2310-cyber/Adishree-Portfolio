@@ -15,11 +15,11 @@ const RecruiterView = () => {
           <div className="absolute inset-0 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500 rounded-full animate-spin-slow"></div>
           <div className="relative p-[2.5px] rounded-full">
             <Image
-              src="/Profile-pic/recruiter.jpg"
+              src="/Profile-pic/recruiters.jpg"
               alt="Projects Post"
               width={256}
               height={384}
-              className="rounded-full w-20 h-20 md:w-40 md:h-40 object-cover"
+              className="rounded-full w-20 h-20 md:w-40 md:h-40 object-cover object-[center_30%]"
             />
           </div>
         </div>
@@ -183,7 +183,7 @@ const RecruiterView = () => {
             </PinContainer>
           </div>
           <div className="flex -ml-65 -mt-40 md:-ml-30 md:mt-0 opacity-0 animate-fade-in-delay-3">
-            <PinContainer title="/GitHub" href="https://github.com/Adishree10">
+            <PinContainer title="/GitHub" href="https://github.com/Tomiwajin">
               <div className="tracking-tight w-[16rem] h-[24rem]">
                 <Image
                   src="/Posts/Git-hub.jpg"
@@ -287,7 +287,7 @@ const RecruiterView = () => {
             </div>
           </Link>
           <Link
-            href="https://github.com/Adishree10"
+            href="https://github.com/Tomiwajin"
             className="w-1/2 h-60 border relative overflow-hidden active:scale-105 opacity-0 animate-fade-in-delay-3"
             target="blank_"
           >

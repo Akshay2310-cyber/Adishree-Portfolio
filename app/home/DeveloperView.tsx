@@ -15,7 +15,7 @@ const DeveloperView = () => {
           <div className="absolute inset-0 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500 rounded-full animate-spin-slow"></div>
           <div className="relative p-[2.5px] rounded-full">
             <Image
-              src="/Profile-pic/developer.jpg"
+              src="/Profile-pic/developers.jpg"
               alt="Developer Profile"
               width={256}
               height={384}
